@@ -1,3 +1,1 @@
-chatbot cihuyy
-
-testing
+fetching api gemini for chat-bot 
